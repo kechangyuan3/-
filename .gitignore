@@ -1,0 +1,14 @@
+# Local hosting configuration and credentials
+.openai/
+.env
+.env.*
+!.env.example
+
+# Development and operating-system files
+node_modules/
+work/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
